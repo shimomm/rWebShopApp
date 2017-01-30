@@ -31,4 +31,5 @@ group :production do
   gem 'pg', '0.18.4'
 end
 
+ruby '2.4.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
